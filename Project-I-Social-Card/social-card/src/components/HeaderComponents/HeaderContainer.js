@@ -3,7 +3,7 @@ import './Header.css';
 
 function HeaderContainer (props) {
     return <div>{ props.text } >
-
+        <p><strong>Lambda School Container</strong></p>
     </div>
 }
 
