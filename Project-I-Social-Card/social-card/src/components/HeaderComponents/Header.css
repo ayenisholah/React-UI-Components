@@ -1,19 +1,17 @@
 /* All styles for your header Components live here */
-body {
-    border: 1px red solid;
-}
 
+.logo {
+    width: 50px;
+    height: auto;
+}
 .title {
     display: flex;
-    /* padding-left: 10px; */
+    padding-left: 80px;
 }
-.content {
-    display: flex;
+.lambda {
+    padding-left: 10px;
+    margin: 0;
 }
 .text-content {
-    padding: 10px;
-    border: 1px blue solid;
-}
-.logo {
-    width: 5%;
+    padding-left: 80px;
 }
