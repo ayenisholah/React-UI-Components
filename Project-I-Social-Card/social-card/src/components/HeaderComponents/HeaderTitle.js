@@ -3,8 +3,10 @@ import './Header.css';
 
 function HeaderTitle () {
     return (
-        <div> 
-            <p><strong>Lambda School</strong>   @LambdaSchool   26 Jan</p>
+        <div className="title"> 
+            <p className="lambda">Lambda School</p>
+            <p className="handle">@LambdaSchool</p>
+            <p>26 Jan</p>
         </div>
     )
 }
