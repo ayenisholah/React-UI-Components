@@ -4,9 +4,10 @@ import './Button.css';
 function ActionButton () {
     return (
         <>
-        {
-
-        }
+        <div>
+            <button>clear</button>
+            <button>/</button>
+        </div>
         </>
     )
 }
