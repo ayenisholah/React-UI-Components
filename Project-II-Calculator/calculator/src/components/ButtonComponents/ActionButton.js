@@ -4,7 +4,7 @@ import './Button.css';
 function ActionButton () {
     return (
         <>
-        <div>
+        <div className='row action'>
             <button>clear</button>
             <button>/</button>
         </div>
