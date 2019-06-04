@@ -1,1 +1,15 @@
 /* All styles for your Card Components live here */
+.react-logo {
+    width: 80%;
+    height: auto;
+    padding: 20px 20px 20px 80px;
+}
+
+h1 {
+    padding-left: 80px;
+    font-size: 20px;
+}
+
+p {
+    padding-left: 80px;
+}

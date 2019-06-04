@@ -1,0 +1,28 @@
+button {
+background-color: white;
+border: 1px grey solid;
+color: black;
+padding: 15px 32px;
+text-align: center;
+text-decoration: none;
+display: inline-block;
+font-size: 16px;
+width: 5px;
+height: auto;
+}
+
+.row :hover {
+    background-color: #A0001E;
+}
+
+.row :active {
+    color: #A0001E;
+}
+.zero {
+    width: 10px;
+    height: auto;
+}
+
+.action :first-child {
+    width: 10px;
+}

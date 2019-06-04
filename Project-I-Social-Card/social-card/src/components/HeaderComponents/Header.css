@@ -1,1 +1,17 @@
 /* All styles for your header Components live here */
+
+.logo {
+    width: 50px;
+    height: auto;
+}
+.title {
+    display: flex;
+    padding-left: 80px;
+}
+.lambda {
+    padding-left: 10px;
+    margin: 0;
+}
+.text-content {
+    padding-left: 80px;
+}
